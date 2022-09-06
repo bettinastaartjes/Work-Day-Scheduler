@@ -11,5 +11,10 @@ Deployed Link: https://bettinastaartjes.github.io/Work-Day-Scheduler/
 Unfortunately I had some issues cloning the starter code repo to my computer, so none of the commits I made to this assignment got saved. The first step I took in completing this assignment was creating the time blocks, using columns (bootstrap), and figuring out how to display the current day/time in the javscript portion. 
 
 Timeblocks/Current Time
-<img src="assets/time-columns.png" alt="Alt text" title="Optional title">
+<img src="assets/time-columns.png" alt="Time and Time Blocks" title="Time and Time Blocks">
 
+You'll notice the past, present, and future timeblocks are color coded.
+<img src="assets/present-past-future.png" alt="Present Past Future" title="Present Past Future">
+
+Lastly, you can enter tasks and save to local storage (refresh the page and tasks will remain there).
+<img src= "assets/local-storage.png" alt="Local Storage" title="Local Storage">
