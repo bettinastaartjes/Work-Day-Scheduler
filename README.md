@@ -4,7 +4,7 @@ This assignment had us create a daily planner to create a schedule using time bl
 # Links to Assignment
 Find the deployment links below:
 
-Github Repo: https://github.com/bettinastaartjes/Work-Da-Scheduler.git
+Github Repo: https://github.com/bettinastaartjes/Work-Day-Scheduler.git
 <br></br>
 Deployed Link: https://bettinastaartjes.github.io/Work-Day-Scheduler/
 
