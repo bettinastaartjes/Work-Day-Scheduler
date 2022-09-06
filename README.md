@@ -1,22 +1,15 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
+This assignment had us create a daily planner to create a schedule using time blocks for standard business hours. When opening the planner, the current day/time is displayed at the top of the page and when presented with the time-blocks, they are color-coded to indicate whether they are in the past, present, or future. Saving to local storage in Javascript helps us enter an event and save that event for each time block.
 
-# User Story
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+# Links to Assignment
+Find the deployment links below:
 
-# Acceptance Criteria
-GIVEN I am using a daily planner to create a schedule
-WHEN I open the planner
-THEN the current day is displayed at the top of the calendar (done)
-WHEN I scroll down
-THEN I am presented with time blocks for standard business hours (done)
-WHEN I view the time blocks for that day
-THEN each time block is color-coded to indicate whether it is in the past, present, or future (done)
-WHEN I click into a time block (done)
-THEN I can enter an event (done)
-WHEN I click the save button for that time block
-THEN the text for that event is saved in local storage (done)
-WHEN I refresh the page (done)
-THEN the saved events persist (done)
+Github Repo: https://github.com/bettinastaartjes/Work-Da-Scheduler.git
+Deployed Link: https://bettinastaartjes.github.io/Work-Day-Scheduler/
+
+# Assignment Summary
+Unfortunately I had some issues cloning the starter code repo to my computer, so none of the commits I made to this assignment got saved. The first step I took in completing this assignment was creating the time blocks, using columns (bootstrap), and figuring out how to display the current day/time in the javscript portion. 
+
+Timeblocks/Current Time
+<img src="assets/time-columns.png" alt="Alt text" title="Optional title">
 
